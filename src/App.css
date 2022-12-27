@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.activeBtn{
+  background-color: aqua;
+
+
+} 
+.btn{
+ background-color: yellow;
+} 
+
+button{
+  width: 150px; 
+}  
+
+p{
+  width: 400px; 
+border: 5px solid violet;
+padding: 20px; 
+margin-top: 0;
+} 
+
+.text{
+  width: 100%; 
+ display: flex;
+ justify-content: center;
+
+}
